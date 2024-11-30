@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://floydcoder.github.io/">
-    <img width="80%" alt="Hello, I'm Anurag. I do open source!" src="./assets/MS.gif" />
+    <img width="80%" alt="Hello, I'm Marco!" src="./assets/MS.gif" />
   </a>
 </p>
 
@@ -9,12 +9,11 @@
   <img src="https://profile-counter.glitch.me/floydcoder/count.svg" />
 </p>
 
-:round_pushpin: Toronto-based Full-Stack Developer with a passion for all things technology, design and rock music. I create rich interactive digital experiences by building efficient code and creating immersive web applications
+:round_pushpin: Toronto-based Full-Stack Developer with a passion for all things technology, design and rock music. I create rich interactive digital experiences by building efficient code and creating immersive web applications.
 
 ###**About me**
 
 - 💼 Creator of [Enzo](https://github.com/Enzo-Grocery-Management-System)
-- :sparkles: Wordpress [Star Wars University](https://starwarsuniversity.org/)
 - :guitar: Guitarist
 - :construction_worker: Check out my [Portfolio](https://floydcoder.github.io/) 
 -  💬 Ask me about anything [here](https://github.com/floydcoder/floydcoder/issues)
