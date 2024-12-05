@@ -11,6 +11,8 @@
 
 :round_pushpin: Toronto-based Full-Stack Developer with a passion for all things technology, design and rock music. I create rich interactive digital experiences by building efficient code and creating immersive web applications.
 
+Hey, just a heads up! My GitHub contributions might not show the full picture. I do most of my work on Azure DevOps and GitLab, so that’s where the bulk of my coding happens. This space is mostly for the fun side of things!
+
 ###**About me**
 
 - 💼 Creator of [Enzo](https://github.com/Enzo-Grocery-Management-System)
